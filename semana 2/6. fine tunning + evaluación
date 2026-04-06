@@ -1,1 +1,52 @@
+## sección 03
+Reflexión Post-Quiz — Mis Errores y Su Causa
+Para cada pregunta que respondiste incorrectamente, anota:
+N° Pregunta
+15
 
+Mi respuesta	
+C
+
+Correcta
+B
+
+**¿Por qué me confundí?**
+Me confundí porque pensé que Adam era una parte de la estructura de la red (como una capa o activación) y no el "motor" que ajusta los pesos.
+No tenía claro que su función principal era cambiar entre lo interno  mientras el modelo entrena.
+
+N° Pregunta
+03
+Mi respuesta	
+C
+
+Correcta
+A
+
+**¿Por qué me confundí?**
+Pensé que el bias tenía que ver con el error del modelo o con la velocidad de aprendizaje. Me costó ver que en la fórmula matemática es simplemente
+el valor inicial (cuando $x=0$) y no una medida de qué tan bien está funcionando el modelo.
+
+## Sección 04
+Posición Personal — ¿Quién es Responsable?
+
+## **Posición Personal — Caso Amazon Recruiting (2018)**
+
+¿Qué falló técnicamente?	
+ El algoritmo se entrenó con currículums de hace 10 años donde casi todos eran hombres. Por eso, la IA "aprendió" por error que ser mujer era una desventaja
+y empezó a filtrar negativamente cualquier palabra femenina en las postulaciones.
+
+¿Quién tiene responsabilidad? ¿Por qué?	
+ La culpa es de los desarrolladores y jefes de proyecto. Ellos debieron revisar si los datos estaban equilibrados antes de lanzar el sistema, en lugar de
+confiar ciegamente en que la máquina sería "neutral".
+
+¿Cómo podrías haberlo evitado siendo el ingeniero del equipo?
+Habría auditado los datos para borrar etiquetas de género y palabras clave que delataran si el candidato era hombre o mujer. También haría pruebas metiendo 
+perfiles idénticos de ambos sexos para ver si la IA decidía distinto solo por el género.
+
+## seccion extra
+Tarea Post-Clase — 3 preguntas para la clase
+**¿Por qué el sistema se equivoca más con las personas de color, dándoles puntajes de riesgo más altos aunque no vuelvan a delinquir?**
+
+**¿Cómo puede alguien defenderse legalmente si ni siquiera el juez sabe exactamente cómo el algoritmo calculó ese puntaje de "peligrosidad"?**
+
+**¿Es justo que el algoritmo use datos del entorno familiar o del barrio para decidir si alguien debe ir a la cárcel o no?**
