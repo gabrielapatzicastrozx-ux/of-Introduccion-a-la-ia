@@ -1,1 +1,12 @@
+## Sección 02
+Necesitaríamos recopilar un montón de capturas de pantalla, afiches digitales y textos de publicaciones de redes sociales confiables de los centros culturales (como el mARTadero 
+en Cocha o la Casa de la Cultura en La Paz). También datos de las páginas de las gobernaciones y clubes deportivos para que la IA aprenda a distinguir entre una publicidad 
+de un restaurante y un anuncio de un taller gratuito.
 
+**¿Qué modelo base usarías y por qué?**
+ Transfer Learning, no tenemos que enseñarle a hablar español desde cero; solo le enseñamos a buscar palabras clave como "gratuito", "mañana", "inscripciones abiertas"
+y el nombre de los departamentos de Bolivia para que sepa clasificar los eventos correctamente.
+
+**¿Cuántos datos crees que necesitarías?**
+Yo creo que con unos 2,000 anuncios clasificados diciéndole a la IA: "esto es un taller", "esto es un concierto", "esto es una salida de club" ya funcionaría bastante bien. 
+Como el modelo base ya es muy inteligente, solo necesita ejemplos de cómo hablamos y cómo anunciamos las cosas aquí en Bolivia para no confundirse con eventos de otros países.
