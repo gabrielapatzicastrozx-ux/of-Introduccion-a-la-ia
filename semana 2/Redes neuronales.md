@@ -16,6 +16,6 @@ Usé 2 capas ocultas. Al principio probé con una sola, pero la red solo dibujab
 Me sorprendió mucho ver cómo trabajan las neuronas por separado, cada uno aprende una dirección distinta .Es increíble que al juntar todas esas piezas 
 sueltas, la red al final "entienda" cómo dibujar una forma compleja como un círculo. 
 
-# seccion 06 : tarea 
+## seccion 06 : tarea 
 <img width="2313" height="1774" alt="image" src="https://github.com/user-attachments/assets/46fc9b62-8b1c-40bf-916f-2b6d32df3ca1" />
 
